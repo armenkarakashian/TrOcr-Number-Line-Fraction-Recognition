@@ -11,10 +11,10 @@ You may download the model from [here](https://drive.google.com/file/d/1ofcGgBAE
 ## Project Steps
 
 ### Data preparation
-![Data prep](visuals/image1)
+![Data prep](visuals/image1.png)
 
 ### Training
-![Training](visuals/image2)
+![Training](visuals/image2.png)
 
 ### Results
-1[Results](visuals/image3)
+![Results](visuals/image3.png)
