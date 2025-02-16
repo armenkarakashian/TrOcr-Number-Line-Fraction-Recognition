@@ -1,6 +1,6 @@
 # TrOCR number recognition model for fraction number lines
 
-Project as described in conference presentation Karakashian, A., Zhang, D., Lu, Q., Wang, Z., & Li, M. Transformer approach to fraction recognition on written responses in students with and without disabilities. CEC, 2025, Baltimore.
+Project as described in conference presentation Karakashian, A., Zhang, D., Lu, Q., Wang, Z., & Li, M. *Transformer approach to fraction recognition on written responses in students with and without disabilities*. CEC, 2025, Baltimore.
 
 ## How to Use
 
